@@ -1,5 +1,5 @@
 const nameGirl = 'Quỳnh Anh à';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.facebook.com/lequynhanh2401';
 const eventName = 'anh yêu em nhiều';
 const titleCard = 'for ziuuu';
 const contentCard = 'Chúc Quỳnh Anh của anh tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
